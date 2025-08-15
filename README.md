@@ -1,6 +1,6 @@
 # SafePath - CominX
 
-FastAPI tabanlı AI destekli erişilebilirlik API'si. Ana SafePath projesinin backend bileşenidir.
+FastAPI tabanlı AI destekli erişilebilirlik API'si. Ana SafePath projesinin backend bileşenidir. Engelliler için Flutter ile geliştirilen mobil uygulama koduda paylaşılmıştır.
 
 ## 🎯 Özellikler
 
