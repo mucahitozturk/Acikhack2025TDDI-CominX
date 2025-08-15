@@ -1,4 +1,4 @@
-# SafePath Backend API
+# SafePath - CominX
 
 FastAPI tabanlı AI destekli erişilebilirlik API'si. Ana SafePath projesinin backend bileşenidir.
 
