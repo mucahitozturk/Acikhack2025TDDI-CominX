@@ -1,4 +1,4 @@
-# Safe# SafePath Backend API
+# SafePath Backend API
 
 FastAPI tabanlı AI destekli erişilebilirlik API'si. Ana SafePath projesinin backend bileşenidir.
 
