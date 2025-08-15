@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+torch
+transformers
+sounddevice
+soundfile
+numpy
+python-multipart
+librosa
+accelerate
+requests          # YENİ EKLENDİ
